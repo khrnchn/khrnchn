@@ -22,6 +22,7 @@
 
 ### Languages and Tools 🛠 
 
+![Laravel](http://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -43,19 +44,8 @@
     </a>
 </div
 
-<br/>
-
----
-
-### ⭐️ From [khrnchn](https://github.com/khrnchn) ### 
-
----
+<br/>]
 
 [instagram]: https://www.instagram.com/khairinchan
 [linkedin]: https://www.linkedin.com/in/khairin-chan-35040b187/
 [Spotify]: https://open.spotify.com/user/uwrxve8376jzzwj51y99s7gra
-
-----
-Credit: [khrnchn](https://github.com/khrnchn)
-
-Last Edited on: 16/05/2023
