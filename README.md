@@ -10,7 +10,7 @@ I'm a **Software Engineering student** currently on my final year at Universiti 
 - 📚 I’m currently working as a part time web developer for a start up company.
 - 🐝 I have worked on several side projects on web development using the Laravel and Filament framework.
 - 🌱 I'm looking to get more familiar with data science and analytics.
-- 🍰 Fun fact: I have a love-hate relationship with Dota 2.
+- 🍰 Average Dota 2 & CSGO enjoyer.
 
 ---
 
