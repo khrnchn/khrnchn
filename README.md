@@ -33,4 +33,8 @@ I'm a **Software Engineering student** currently on my final year at Universiti 
   </a>
 </div>
 
+---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nih4w62xmqzoe2eoiq33ryyagm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nih4w62xmqzoe2eoiq33ryyagm&redirect=true)
+
 
