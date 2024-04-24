@@ -9,7 +9,7 @@ I'm a **Software Engineering student** currently on my final year at Universiti 
 
 - 📚 I’m currently working remotely as a web developer intern, while working as a part time web developer for a start up company.
 - 🐝 I have worked on several side projects on web development using the Laravel and Filament framework.
-- Currently learning typescript, react, and nextjs (im not consistent).
+- Currently learning nextjs and docker (im not consistent).
 
 ---
 
