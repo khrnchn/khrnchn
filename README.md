@@ -21,7 +21,6 @@ I'm a **Software Engineering student** currently on my final year at Universiti 
 
 ### Future Plans
 <code><a href="https://nextjs.org/"><img height="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs logo" /></a></code>
-<code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 
 ---
   
