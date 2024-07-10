@@ -5,11 +5,11 @@
 [![Gmail](https://img.shields.io/badge/-khairin13chan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khairin13chan@gmail.com)
 
 <!--Introduction -->
-I'm a **Software Engineering student** currently on my final year at Universiti Malaysia Pahang, Malaysia.
+I'm currently a **Software Engineer**, who recently completed my studies at Universiti Malaysia Pahang, Malaysia.
 
-- 📚 I’m currently working as a software developer after transitioning from web developer intern..
+- 📚 I’m working as a software developer after transitioning from web developer intern.
 - 🐝 I have worked on several side projects on web development using the Laravel and Filament framework.
-- Currently learning nextjs.
+- Currently learning and exploring nextjs, docker, and github actions through side projects and hackathon.
 
 ---
 
