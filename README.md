@@ -18,8 +18,6 @@ I'm currently a **Software Engineer**, who recently completed my studies at Univ
 <code><a href="https://filamentphp.com/"><img height="40" src="https://avatars.githubusercontent.com/u/64450473?s=200&v=4" alt="filament logo" /></a></code>
 <code><a href="https://laravel-livewire.com/"><img height="40" src="https://laravelnews.s3.amazonaws.com/images/laravel-livewire.png?w=1366&h=692.22972972973&q=90&auto=format&fit=crop" alt="livewire logo" /></a></code>
 <code><a href="https://tailwindcss.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind logo" /></a></code>
-
-### Future Plans
 <code><a href="https://nextjs.org/"><img height="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs logo" /></a></code>
 
 ---
