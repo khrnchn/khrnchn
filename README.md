@@ -2,7 +2,7 @@
 
 im a recent cs grad who is currently working as a software developer. learning and exploring different tech stacks.
 
-feel free to visit [sedekahje](sedekahje.com) or my [portfolio](khrnchn.xyz).
+feel free to visit [sedekahje](https://sedekahje.com) or my [portfolio](https://khrnchn.xyz).
 
 if you like what i do,
 
