@@ -1,24 +1,12 @@
-<!-- Greeting -->
-# Greetings, I'm Khairin, a Yayasan TM scholar! :wave:
+# greetings, im khairin! :wave:
 
-[![Linkedin](https://img.shields.io/badge/-khairinchan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khairin-chan-35040b187/)
-[![Gmail](https://img.shields.io/badge/-khairin13chan@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khairin13chan@gmail.com)
+im a recent cs grad who is currently working as a software developer. learning and exploring different tech stacks.
 
-<!--Introduction -->
-I'm a CS grad who recently completed my studies at UMP, Malaysia.
+feel free to visit [sedekahje](sedekahje.com) or my [portfolio](khrnchn.xyz).
 
-- 📚 I’m currently working as a software developer.
-- 🐝 I have worked on several web development projects using the Laravel and Filament framework.
-- Currently learning and exploring nextjs, docker, and github actions by contributing to opensource projects and building pet projects.
+if you like what i do,
 
----
-
-### Skills
-<code><a href="https://laravel.com/"><img height="40" src="https://laravel.com/img/logomark.min.svg" alt="laravel logo" /></a></code>
-<code><a href="https://filamentphp.com/"><img height="40" src="https://avatars.githubusercontent.com/u/64450473?s=200&v=4" alt="filament logo" /></a></code>
-<code><a href="https://laravel-livewire.com/"><img height="40" src="https://laravelnews.s3.amazonaws.com/images/laravel-livewire.png?w=1366&h=692.22972972973&q=90&auto=format&fit=crop" alt="livewire logo" /></a></code>
-<code><a href="https://tailwindcss.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind logo" /></a></code>
-<code><a href="https://nextjs.org/"><img height="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs logo" /></a></code>
+<a href='https://www.buymeacoffee.com/khairin' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
 
 ---
   
@@ -30,7 +18,3 @@ I'm a CS grad who recently completed my studies at UMP, Malaysia.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khrnchn&theme=react&line_height=40&hide=css"/>
   </a>
 </div>
-
-<a href='https://www.buymeacoffee.com/khairin' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-
-
