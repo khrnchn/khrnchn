@@ -4,10 +4,6 @@ im a recent cs grad who is currently working as a software developer. learning a
 
 feel free to visit [sedekahje](https://sedekahje.com) or my [portfolio](https://khrnchn.xyz).
 
-if you like what i do,
-
-<a href='https://www.buymeacoffee.com/khairin' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-
 ---
   
 <div align="center"> 
