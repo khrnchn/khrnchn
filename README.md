@@ -1,16 +1,7 @@
 # greetings, im khairin! :wave:
 
-im a recent cs grad who is currently working as a software developer. learning and exploring different tech stacks.
+im a software developer currently working in an agentic team.
 
-feel free to visit [sedekahje](https://sedekah.je) or my [portfolio](https://khrnchn.xyz).
+feel free to visit [sedekahje](https://sedekah.je).
 
----
-  
-<div align="center"> 
-  <a href="">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khrnchn&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khrnchn&theme=react&line_height=40&hide=css"/>
-  </a>
-</div>
+"you are absolutely right!" enjoyer | weaver spammer | gunners
